@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+  }
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+        
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+  }
+#logout a:link{
+    padding: 25px;
+    float: right;
+}
+  
+#admin {
+    padding: 25px;
+}
+
+#main1 {
+    text-align: center;
+    text-emphasis: bold;
+}
+
+form {
+    margin: 0 auto;
+    width: 600px;
+}
+
+label{
+  float: left;
+  clear: left;
+  width: 250px;
+  text-align: right;
+}
+
+input {
+float: left;
+}
+    
